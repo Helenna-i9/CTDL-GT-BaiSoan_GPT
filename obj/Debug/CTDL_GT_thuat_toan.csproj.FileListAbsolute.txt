@@ -1,0 +1,7 @@
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\bin\Debug\CTDL_GT_thuat_toan.exe.config
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\bin\Debug\CTDL_GT_thuat_toan.exe
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\bin\Debug\CTDL_GT_thuat_toan.pdb
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\obj\Debug\CTDL_GT_thuat_toan.csproj.AssemblyReference.cache
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\obj\Debug\CTDL_GT_thuat_toan.csproj.CoreCompileInputs.cache
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\obj\Debug\CTDL_GT_thuat_toan.exe
+H:\GPT local\CTDL_GT_BaiSoan_HoanThien\obj\Debug\CTDL_GT_thuat_toan.pdb
